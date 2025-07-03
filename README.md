@@ -5,7 +5,7 @@ Using mobile tech and AI to improve school meal programs in underserved Pakistan
 A research paper exploring how mobile technology and artificial intelligence can improve school meal programs in underserved communities across Pakistan. Written in collaboration with Allah Walay Trust.
 
 Problem
-Millions of Pakistani schoolchildren face chronic undernutrition — and those who are hungry struggle to learn. Existing meal programs are inconsistent, underfunded, and hard to monitor.
+Millions of Pakistani school children face chronic undernutrition and those who are hungry struggle to learn. Existing meal programs are inconsistent, underfunded, and hard to monitor.
 
 Solution
 This paper proposes the use of:

@@ -19,7 +19,7 @@ Reflection
 Working on this paper helped me connect the dots between technology and real world challenges in Pakistan. The digital divide, the power dynamics, the extremes of poverty in our country. I’ve also always been interested in AI and computer science so I paired the two topics and wrote this paper.
 
 It also made me think about how small changes like better data, better tracking, or even SMS alerts can lead to big improvements in things like child nutrition and education. I hope this is just one of many projects I’ll take on that combine tech with empathy.
-
+I've talked in more detail in the reflection pdf which has been attached to this post
 
 Authored by
 Alisha Mehran – A Level student passionate about computer science and using tech to bridge social gaps and support equal oppurtunities in Pakistan.
